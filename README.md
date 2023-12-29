@@ -1,6 +1,6 @@
 ![MasterHead](banner.png)
 <h1 align="center">Hi 👋, I'm Jayamuni Rashminda</h1>
-<h3 align="center">A passionate Software Developer and UI/UX Designer</h3>
+<h3 align="center">I am a passionate software developer and UI/UX designer, with a curiosity to explore and seek new adventures in the world of technology.</h3><br>
 <img align="right" alt"Coding" width="400" src="animated.jpg">
 
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rashminda121](https://github.com/Rashminda121)
 
-- 💬 Ask me about **Android / MEARN**
+- 💬 Ask me about  **Android / Software Applications**
 
 - 📫 How to reach me **rashminda121@gmail.com**
 
