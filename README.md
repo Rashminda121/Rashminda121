@@ -1,6 +1,6 @@
 ![MasterHead](banner.png)
 <h1 align="center">Hi 👋, I'm Jayamuni Rashminda</h1>
-<h3 align="center">I am a passionate software developer and UI/UX designer, with a curiosity to explore and seek new adventures in the world of technology.</h3><br>
+<h3 align="center">I am a passionate Software Developer and UI/UX Designer, with a curiosity to explore and seek new adventures in the world of technology.</h3><br>
 <img align="right" alt"Coding" width="400" src="animated.jpg">
 
 
