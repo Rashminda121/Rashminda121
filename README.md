@@ -1,7 +1,7 @@
-[![MasterHead](banner.png)]
+![MasterHead](banner.png)
 <h1 align="center">Hi 👋, I'm Jayamuni Rashminda</h1>
 <h3 align="center">A passionate Software Developer and UI/UX Designer</h3>
-<img align="right" alt"Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1703863993~exp=1703864593~hmac=58d5512b902e28e56bd08940a644c37d6e11256b61b6e1765d5564f03096d657">
+<img align="right" alt"Coding" width="400" src="animated.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashminda121&label=Profile%20views&color=0e75b6&style=flat" alt="rashminda121" /> </p>
