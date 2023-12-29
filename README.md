@@ -1,4 +1,4 @@
-[![MasterHead]([https://drive.google.com/file/d/1p35W4KrAdC4qtB6v9wjT7CzlZDOxgGf2/view?usp=sharing](https://drive.google.com/drive/u/0/folders/1cYfBvlS_RpUJyTEOcYQmGdLdcAW1Ifds))]
+[![MasterHead](banner.png)]
 <h1 align="center">Hi 👋, I'm Jayamuni Rashminda</h1>
 <h3 align="center">A passionate Software Developer and UI/UX Designer</h3>
 <img align="right" alt"Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1703863993~exp=1703864593~hmac=58d5512b902e28e56bd08940a644c37d6e11256b61b6e1765d5564f03096d657">
