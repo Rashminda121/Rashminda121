@@ -1,7 +1,9 @@
 
 ![MasterHead](banner.png)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rashminda121&label=Profile%20views&color=0e75b6&style=flat" alt="rashminda121" /> </p>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=4E77F7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jayamuni+Rashminda" alt="Typing SVG" /></a>
+
 <h3 align="center">I am a passionate Software Developer and UI/UX Designer, with a curiosity to explore and seek new adventures in the world of technology.</h3><br>
 <img align="right" alt"Coding" width="400" src="animated.jpg">
 
