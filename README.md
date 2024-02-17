@@ -39,4 +39,4 @@
 ![rashminda121's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashminda121&theme=material-palenight&hide_border=true)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashminda121&theme=dark" alt="rashminda121" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashminda121&theme=dark" alt="rashminda121" style="margin-right:10px;"/></a> </p>
