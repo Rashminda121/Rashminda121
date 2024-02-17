@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently working on [Java Servlet Project](https://github.com/Rashminda121/ebook-app.git)
+- 🔭 I’m currently working on [Java Servlet Project](https://github.com/Rashminda121/ebook-app.git?color=blueviolet)
 
 - 🌱 I’m currently learning **Machine Learning/ React**
 
