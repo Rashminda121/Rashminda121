@@ -42,5 +42,4 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashminda121&theme=dark" alt="rashminda121" style="margin-right:10px;"/></a> </p>
 
 <a href="mailto:rashminda121@gmail.com">![rashminda121@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rashminda_jc)
