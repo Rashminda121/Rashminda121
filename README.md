@@ -1,6 +1,6 @@
 
 ![MasterHead](banner.png)
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rashminda121&label=Profile%20views&color=0e75b6&style=flat" alt="rashminda121" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rashminda121&label=Profile%20views&color=blueviolet&style=flat" alt="rashminda121" /> </p>
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=A560F7&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Jayamuni+Rashminda" alt="Typing SVG" /></a></h1>
 
@@ -39,11 +39,4 @@
 
 ![rashminda121's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashminda121&theme=material-palenight&hide_border=true)
 
-<p align="center">
-    <a href="https://github.com/rashminda121/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    <br />
-    <br />
-  </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashminda121&theme=dark" alt="rashminda121" style="margin-right:10px;"/></a> </p>
