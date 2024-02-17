@@ -40,4 +40,4 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashminda121&theme=dark" alt="rashminda121" /></a> </p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rashminda121&theme=dark&card_width=500" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rashminda121&theme=dark&hide_border=true&card_width=500" alt="GitHub Streak" /></a>
