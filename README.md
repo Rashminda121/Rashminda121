@@ -1,5 +1,5 @@
 
-![MasterHead](b.jpg)
+![MasterHead](b1.jpg)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rashminda121&label=Profile%20views&color=blueviolet&style=flat" alt="rashminda121" /> </p>
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=A560F7&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Jayamuni+Rashminda" alt="Typing SVG" /></a></h1>
