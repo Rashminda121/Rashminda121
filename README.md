@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://rashminda121.github.io/Portfolio/](https://rashminda121.github.io/Portfolio/)
 
-
+<div align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chamindu rashminda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamindu rashminda" height="30" width="40" /></a>
@@ -31,7 +31,9 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
 </a>
 
-</p></br>
+</p>
+</div>
+</br>
 <div align="center">
   <h3 align="center">Languages and Tools:</h3>
 </div></br>
