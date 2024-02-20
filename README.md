@@ -57,20 +57,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamindu-rashminda-42565828a/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/cCRBM6BV)-->
 
-<div style="text-align: center;">
-    <a href="mailto:rashminda121@gmail.com" align="center">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rashminda121@gmail.com" align="center">
-    </a>
-    <br>
-    <a href="https://www.instagram.com/rashminda_jc" align="center">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" align="center">
-    </a>
-    <a href="https://www.linkedin.com/in/chamindu-rashminda-42565828a/" align="center">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center">
-    </a>
-    <a href="https://discord.com/invite/cCRBM6BV" align="center">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" align="center">
-    </a>
-</div>
 
 
