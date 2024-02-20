@@ -6,7 +6,7 @@
 
 <h3 align="center">I am a passionate Software Developer and UI/UX Designer, with a curiosity to explore and seek new adventures in the world of technology.</h3><br>
 <img align="right" alt"Coding" width="400" src="pic1.gif">
-
+</br>
 
 
 
@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://rashminda121.github.io/Portfolio/](https://rashminda121.github.io/Portfolio/)
 
-</br></br></br>
+</br></br>
 
 <div align="center">
 <h3 align="center">Connect With Me</h3>
