@@ -40,6 +40,9 @@
 <!--![rashminda121's Stats](https://github-readme-stats.vercel.app/api?username=rashminda121&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)--> 
 ![rashminda121's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashminda121&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
+<div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashminda121&theme=material-palenight&show_icons=true&hide_border=true&layout=compact" alt="rashminda121's Top Languages">
+</div>
 
 
 ![rashminda121's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashminda121&theme=material-palenight&hide_border=true)
