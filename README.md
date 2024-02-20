@@ -41,10 +41,10 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashminda121&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" />
-</div> </br>
+</div>
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashminda121&theme=material-palenight&hide_border=true" align="center" />
-</div> <br>
+</div> </br>
 
 <!--![rashminda121's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashminda121&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)-->
 
