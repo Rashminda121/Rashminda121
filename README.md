@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **rashminda121@gmail.com**
 
-- 📄 Know about my experiences [https://rashminda121.github.io/Portfolio/](https://rashminda121.github.io/Portfolio/)
+- 📄 Know about my experiences [https://rashminda121.github.io/Portfolio](https://rashminda121.github.io/Portfolio/)
 
 </br></br>
 
