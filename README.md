@@ -55,7 +55,7 @@
 
 <!--![rashminda121's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashminda121&theme=material-palenight&hide_border=true)-->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=rashminda121&theme=darkhub&row=1&column=5" alt="rashminda121" align="center" style="margin-right:10px;" /></a> </p><br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=rashminda121&theme=darkhub&row=1&column=5&margin-w=10" alt="rashminda121" align="center" style="margin-right:10px;" /></a> </p><br>
 
 <!--
 <a href="mailto:rashminda121@gmail.com" align="center">![rashminda121@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
