@@ -21,7 +21,8 @@
 
 - 📄 Know about my experiences [https://rashminda121.github.io/Portfolio](https://rashminda121.github.io/Portfolio/)
 
-</br></br>
+</br>
+</br>
 
 <div align="center">
 <h3 align="center">Connect With Me</h3>
