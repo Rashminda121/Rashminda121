@@ -45,7 +45,7 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/></code> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/></code> </a> 
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg&color=purple" alt="bootstrap" width="60" height="60"/></code> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
       <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/></code> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
