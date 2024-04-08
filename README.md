@@ -119,9 +119,9 @@
 </p><br>
 <p align="center" gap="60"> 
   <a href="https://developer.android.com" target="blank" rel="noreferrer">
-  <img src="https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg" alt="mslearn" width="140" height="140" align="center"/> </a> 
-  <a href="https://developer.android.com" target="blank" rel="noreferrer">
   <img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg" alt="mslearn" width="140" height="140" align="center"/> </a> 
+  <a href="https://developer.android.com" target="blank" rel="noreferrer">
+  <img src="https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg" alt="mslearn" width="140" height="140" align="center"/> </a> 
   <a href="https://developer.android.com" target="blank" rel="noreferrer">
   <img src="https://learn.microsoft.com/en-us/training/achievements/introduction-to-founders-hub.svg" alt="mslearn" width="140" height="140" align="center"/> </a> 
 </p><br><br>
