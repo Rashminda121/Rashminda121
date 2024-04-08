@@ -116,7 +116,7 @@
   <img src="https://learn.microsoft.com/en-us/training/achievements/describe-benefits-use-cloud-services.svg" alt="mslearn" width="140" height="140" align="center"/> </a> 
   <a href="https://developer.android.com" target="blank" rel="noreferrer">
   <img src="https://learn.microsoft.com/en-us/training/achievements/describe-cloud-compute.svg" alt="mslearn" width="140" height="140" align="center"/> </a> 
-</p><br><br>
+</p><br>
 <p align="center" gap="60"> 
   <a href="https://developer.android.com" target="blank" rel="noreferrer">
   <img src="https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg" alt="mslearn" width="140" height="140" align="center"/> </a> 
