@@ -108,12 +108,12 @@
 
 <!--tropies-->
 <p align="center"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-  <img src="https://developers.google.com/static/profile/badges/events/io/2024/registered/badge.svg" alt="google_I/O" width="70" height="70"/> </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-  <img src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg" alt="mslearn" width="70" height="70"/> </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-  <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-ai-fundamentals.svg" alt="mslearn" width="70" height="70"/> </a> 
+  <a href="https://developer.android.com" target="blank" rel="noreferrer">
+  <img src="https://developers.google.com/static/profile/badges/events/io/2024/registered/badge.svg" alt="google_I/O" width="90" height="90"/> </a> 
+  <a href="https://developer.android.com" target="blank" rel="noreferrer">
+  <img src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg" alt="mslearn" width="90" height="90"/> </a> 
+  <a href="https://developer.android.com" target="blank" rel="noreferrer">
+  <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-ai-fundamentals.svg" alt="mslearn" width="90" height="90"/> </a> 
 </p>
 
 <!--
