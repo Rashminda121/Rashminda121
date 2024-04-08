@@ -106,6 +106,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=rashminda121&theme=nord&row=1&column=5&margin-w=5&no-bg=false" alt="rashminda121" align="center" style="margin-right:10px;" /></a> </p><br>
 
+<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+  <code><img src="https://developers.google.com/static/profile/badges/events/io/2024/registered/badge.svg" alt="android" width="60" height="60"/></code> </a> </p>
+
 <!--
 <a href="mailto:rashminda121@gmail.com" align="center">![rashminda121@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rashminda_jc)
