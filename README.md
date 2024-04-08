@@ -107,7 +107,7 @@
   <h3 align="center">Badges</h3>
 </div></br>
 <!--tropies-->
-<p align="center" gap="10"> 
+<p align="center" gap="60"> 
   <a href="https://developer.android.com" target="blank" rel="noreferrer">
   <img src="https://developers.google.com/static/profile/badges/events/io/2024/registered/badge.svg" alt="google_I/O" width="140" height="140"/> </a> 
   <a href="https://developer.android.com" target="blank" rel="noreferrer">
