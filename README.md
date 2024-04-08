@@ -109,15 +109,15 @@
 <!--tropies-->
 <p align="center" gap="60"> 
   <a href="https://developer.android.com" target="blank" rel="noreferrer">
-  <img src="https://developers.google.com/static/profile/badges/events/io/2024/registered/badge.svg" alt="google_I/O" width="140" height="140"/> </a> 
+  <img src="https://developers.google.com/static/profile/badges/events/io/2024/registered/badge.svg" alt="google_I/O" width="140" height="140" style="margin-right: 20px;"/> </a> 
   <a href="https://developer.android.com" target="blank" rel="noreferrer">
-  <img src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg" alt="mslearn" width="140" height="140"/> </a> 
+  <img src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg" alt="mslearn" width="140" height="140" style="margin-right: 20px;"/> </a> 
   <a href="https://developer.android.com" target="blank" rel="noreferrer">
-  <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-ai-fundamentals.svg" alt="mslearn" width="140" height="140"/> </a> 
+  <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-ai-fundamentals.svg" alt="mslearn" width="140" height="140" style="margin-right: 20px;"/> </a> 
   <a href="https://developer.android.com" target="blank" rel="noreferrer">
-  <img src="https://learn.microsoft.com/en-us/training/achievements/describe-benefits-use-cloud-services.svg" alt="mslearn" width="140" height="140"/> </a> 
+  <img src="https://learn.microsoft.com/en-us/training/achievements/describe-benefits-use-cloud-services.svg" alt="mslearn" width="140" height="140" style="margin-right: 20px;"/> </a> 
   <a href="https://developer.android.com" target="blank" rel="noreferrer">
-  <img src="https://learn.microsoft.com/en-us/training/achievements/describe-cloud-compute.svg" alt="mslearn" width="140" height="140"/> </a> 
+  <img src="https://learn.microsoft.com/en-us/training/achievements/describe-cloud-compute.svg" alt="mslearn" width="140" height="140" style="margin-right: 20px;"/> </a> 
 </p><br><br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=rashminda121&theme=nord&row=1&column=5&margin-w=5&no-bg=false" alt="rashminda121" align="center" style="margin-right:10px;" /></a> </p><br>
