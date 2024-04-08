@@ -103,7 +103,9 @@
 <!--![rashminda121's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rashminda121&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)-->
 
 <!--![rashminda121's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashminda121&theme=material-palenight&hide_border=true)-->
-
+<div align="center">
+  <h3 align="center">Badges</h3>
+</div></br>
 <!--tropies-->
 <p align="center"> 
   <a href="https://developer.android.com" target="blank" rel="noreferrer">
