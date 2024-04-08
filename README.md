@@ -104,8 +104,6 @@
 
 <!--![rashminda121's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashminda121&theme=material-palenight&hide_border=true)-->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=rashminda121&theme=nord&row=1&column=5&margin-w=5&no-bg=false" alt="rashminda121" align="center" style="margin-right:10px;" /></a> </p><br>
-
 <!--tropies-->
 <p align="center"> 
   <a href="https://developer.android.com" target="blank" rel="noreferrer">
@@ -115,6 +113,10 @@
   <a href="https://developer.android.com" target="blank" rel="noreferrer">
   <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-ai-fundamentals.svg" alt="mslearn" width="150" height="150"/> </a> 
 </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=rashminda121&theme=nord&row=1&column=5&margin-w=5&no-bg=false" alt="rashminda121" align="center" style="margin-right:10px;" /></a> </p><br>
+
+
 
 <!--
 <a href="mailto:rashminda121@gmail.com" align="center">![rashminda121@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
