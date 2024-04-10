@@ -1,4 +1,4 @@
-
+![MasterHead](bg2.jpg)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rashminda121&label=Profile%20views&color=blueviolet&style=flat" alt="rashminda121" /> </p>
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=AF51F8F6&center=true&vCenter=true&random=false&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C++I'm+Jayamuni+Rashminda;Software+Engineer%2F+Developer;UI%2F+UX+Engineer;Full+Stack+Developer" alt="Typing SVG" /></a></h1>
