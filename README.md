@@ -27,7 +27,7 @@
 <h3 align="center">Connect With Me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/chamindu-rashminda-42565828a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamindu rashminda" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rashminda_jc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashminda123" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rashminda_jc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashminda123" height="30" width="40" /></a>
 <a href="https://discord.com/invite/cCRBM6BV" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
 </a>
