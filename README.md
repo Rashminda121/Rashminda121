@@ -106,25 +106,25 @@
 
 <!--tropies-->
 <p align="center" gap="60"> 
-  <a href="https://developer.android.com" target="blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/chamindu-rashminda-42565828a/" target="blank" rel="noreferrer">
   <img src="https://developers.google.com/static/profile/badges/events/io/2024/registered/badge.svg" alt="google_I/O" width="140" height="140" align="center"/> </a> 
-  <a href="https://developer.android.com" target="blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/chamindu-rashminda-42565828a/" target="blank" rel="noreferrer">
   <img src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg" alt="mslearn" width="140" height="140" align="center"/> </a> 
-  <a href="https://developer.android.com" target="blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/chamindu-rashminda-42565828a/" target="blank" rel="noreferrer">
   <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-ai-fundamentals.svg" alt="mslearn" width="140" height="140" align="center"/> </a> 
-  <a href="https://developer.android.com" target="blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/chamindu-rashminda-42565828a/" target="blank" rel="noreferrer">
   <img src="https://learn.microsoft.com/en-us/training/achievements/describe-benefits-use-cloud-services.svg" alt="mslearn" width="140" height="140" align="center"/> </a> 
-  <a href="https://developer.android.com" target="blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/chamindu-rashminda-42565828a/" target="blank" rel="noreferrer">
   <img src="https://learn.microsoft.com/en-us/training/achievements/describe-cloud-compute.svg" alt="mslearn" width="140" height="140" align="center"/> </a> 
 </p><br>
 <p align="center" gap="60"> 
-  <a href="https://developer.android.com" target="blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/chamindu-rashminda-42565828a/" target="blank" rel="noreferrer">
   <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-with-artificial-intelligence-on-azure.svg" alt="mslearn" width="140" height="140" align="center"/> </a> 
-  <a href="https://developer.android.com" target="blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/chamindu-rashminda-42565828a/" target="blank" rel="noreferrer">
   <img src="https://learn.microsoft.com/en-us/training/achievements/microsoft-azure-fundamentals-describe-cloud-concepts.svg" alt="mslearn" width="140" height="140" align="center"/> </a> 
-  <a href="https://developer.android.com" target="blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/chamindu-rashminda-42565828a/" target="blank" rel="noreferrer">
   <img src="https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg" alt="mslearn" width="140" height="140" align="center"/> </a> 
-  <a href="https://developer.android.com" target="blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/chamindu-rashminda-42565828a/" target="blank" rel="noreferrer">
   <img src="https://learn.microsoft.com/en-us/training/achievements/introduction-to-founders-hub.svg" alt="mslearn" width="140" height="140" align="center"/> </a> 
 </p><br><br>
 
