@@ -105,6 +105,7 @@
 <!--![rashminda121's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashminda121&theme=material-palenight&hide_border=true)-->
 
 <!--tropies-->
+<!--
 <p align="center" gap="60"> 
   <a href="https://www.linkedin.com/in/chamindu-rashminda-42565828a/" target="blank" rel="noreferrer">
   <img src="https://developers.google.com/static/profile/badges/events/io/2024/registered/badge.svg" alt="google_I/O" width="140" height="140" align="center"/> </a> 
@@ -126,7 +127,7 @@
   <img src="https://learn.microsoft.com/en-us/training/achievements/generic-trophy.svg" alt="mslearn" width="140" height="140" align="center"/> </a> 
   <a href="https://www.linkedin.com/in/chamindu-rashminda-42565828a/" target="blank" rel="noreferrer">
   <img src="https://learn.microsoft.com/en-us/training/achievements/introduction-to-founders-hub.svg" alt="mslearn" width="140" height="140" align="center"/> </a> 
-</p><br><br>
+</p><br><br>-->
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=rashminda121&theme=nord&row=1&column=5&margin-w=5&no-bg=false" alt="rashminda121" align="center" style="margin-right:10px;" /></a> </p><br>
