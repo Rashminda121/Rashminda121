@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on PHP Project
+- 🔭 I’m currently working on React Project
 
 - 🌱 I’m currently learning **Machine Learning/ React**
 
