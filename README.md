@@ -38,6 +38,7 @@
 <div align="center">
   <h3 align="center">Languages and Tools:</h3>
 </div></br>
+<!--
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/></code> </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
@@ -89,7 +90,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/></code> </a> 
 </p><br><br>
-
+-->
 
 <!--![rashminda121's Stats](https://github-readme-stats.vercel.app/api?username=rashminda121&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)--> 
 
