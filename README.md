@@ -26,7 +26,7 @@
 <div align="center">
 <h3 align="center">Connect With Me</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/chamindu-rashminda-42565828a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamindu rashminda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jayamuni-rashminda-42565828a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamindu rashminda" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rashminda_jc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashminda123" height="30" width="40" /></a>
 <a href="https://discord.com/invite/cCRBM6BV" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
@@ -148,7 +148,7 @@
 <a href="https://www.instagram.com/rashminda_jc">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a> 
-<a href="https://www.linkedin.com/in/chamindu-rashminda-42565828a/">
+<a href="https://www.linkedin.com/in/jayamuni-rashminda-42565828a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://discord.com/invite/cCRBM6BV">
