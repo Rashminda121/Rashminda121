@@ -9,9 +9,9 @@
 
 
 
-- 🔭 I’m currently working on React Project
+- 🔭 I’m currently working on NextJs Project
 
-- 🌱 I’m currently learning **Machine Learning/ React**
+- 🌱 I’m currently learning **Machine Learning/ NextJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rashminda121](https://github.com/Rashminda121)
 
