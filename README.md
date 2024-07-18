@@ -35,10 +35,12 @@
 </p>
 </div>
 </br>
+
+<!--
 <div align="center">
   <h3 align="center">Languages and Tools:</h3>
 </div></br>
-<!--
+
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="60" height="60"/></code> </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
