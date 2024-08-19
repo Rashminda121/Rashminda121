@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on NextJs Project
 
-- 🌱 I’m currently learning **Machine Learning/ NextJs**
+- 🌱 I’m currently learning **NextJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rashminda121](https://github.com/Rashminda121)
 
