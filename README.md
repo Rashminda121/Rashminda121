@@ -133,7 +133,7 @@
 </p><br><br>-->
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=rashminda121&theme=nord&row=1&column=5&margin-w=5&no-bg=false" alt="rashminda121" align="center" style="margin-right:10px;" /></a> </p><br>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=rashminda121&theme=nord&row=1&column=5&margin-w=5&no-bg=false" alt="rashminda121" align="center" style="margin-right:10px;" /></a> </p><br> -->
 
 
 
