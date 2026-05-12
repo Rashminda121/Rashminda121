@@ -6,17 +6,17 @@
 <div align="center">
 <h3 align="center">I am a passionate Software Developer and UI/UX Designer, with a curiosity to explore and seek new adventures in the world of technology.</h3><br>
 
-- 🔭 I’m currently working on NextJs Project
+🔭 I’m currently working on NextJs Project
 
-- 🌱 I’m currently learning **NextJs**
+🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rashminda121](https://github.com/Rashminda121)
+👨‍💻 All of my projects are available at [https://github.com/Rashminda121](https://github.com/Rashminda121)
 
-- 💬 Ask me about  **Android / Software Applications**
+💬 Ask me about  **Android / Software Applications**
 
-- 📫 How to reach me **rashminda121@gmail.com**
+📫 How to reach me **rashminda121@gmail.com**
 
-- 📄 Know about my experiences [https://rashminda121.github.io/porfolio2/](https://rashminda121.github.io/porfolio2/)
+📄 Know about my experiences [https://rashminda121.github.io/porfolio2/](https://rashminda121.github.io/porfolio2/)
 
 </br></br>
 
@@ -27,8 +27,8 @@
 <a href="https://discord.com/invite/cCRBM6BV" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
 </a>
-
 </p> -->
+
 </div>
 </br>
 
