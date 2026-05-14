@@ -4,7 +4,7 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=AF51F8F6&center=true&vCenter=true&random=false&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C++I'm+Jayamuni+Rashminda;Software+Engineer%2F+Developer;UI%2F+UX+Engineer;Full+Stack+Developer" alt="Typing SVG" /></a></h1>
 
 <div align="center">
-<h3 align="center">I am a passionate Software Developer and UI/UX Designer, with a curiosity to explore and seek new adventures in the world of technology.</h3><br>
+<h3 align="center">I am a passionate Software Developer and Full Stack Developer, with a curiosity to explore and seek new adventures in the world of technology.</h3><br>
 
 🔭 I’m currently working on NextJs Project
 
