@@ -22,9 +22,6 @@
 
 <h3 align="center">Connect With Me</h3>
 <!-- <p align="center">
-<a href="https://discord.com/invite/cCRBM6BV" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-</a>
 </p> -->
 
 </div>
